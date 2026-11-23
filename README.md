@@ -3,7 +3,7 @@
 A beginner-friendly, reproducible analysis of Seaborn's Titanic dataset using Python, pandas, NumPy, Matplotlib, and Seaborn. It follows the InternCircle Project 01 guide: inspect the data, document missing values, clean with reasons, check duplicates and types, compare survival patterns, and report three findings with numbers.
 
 > **About these results:** This is a fresh reference analysis using `seaborn.load_dataset("titanic")`. It is not a copy of your completed Colab notebook or its exact results. The notebook calculates results when you run it.
-
+> 
 ## Questions
 
 1. Did survival differ by sex?
